@@ -61,7 +61,7 @@ module.exports = {
         ],
      },
     {
-        'I always misspell genius SMH! The irony!': [
+        'I always misspell genius S-M-H! The irony!': [
             'Kanye',
             'Trump',
         ],
