@@ -31,7 +31,7 @@ module.exports = {
        ],
      },
     {
-        'Also for anyone that has money they know the first rule is to use other people's money.': [
+        'Also for anyone that has money they know the first rule is to use other people\'s money.': [
          'Kanye West',
           'Donald Trump',
        ],
@@ -49,7 +49,7 @@ module.exports = {
   ],
 },
 {
-  'I'd like to address the false stories and noise that have been engineered by the media.': [
+  'I\'d like to address the false stories and noise that have been engineered by the media.': [
     'Kanye West',
     'Donald Trump',
   ],
