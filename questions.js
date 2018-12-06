@@ -7,32 +7,21 @@ module.exports = {
    */
   QUESTIONS_EN_GB: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
+      'Everyone knows I am right that Robert Pattinson should dump Kristen Stewart. In a couple of years, he will thank me. Be smart, Robert.': [
+        'Trump',
+        'Kanye',
       ],
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
+      'I wonder if Apple is upset with me for hounding them to produce a large screen iPhone. I hear they will be doing it soon—long overdue.': [
+        'Trump',
+        'Kanye',
       ],
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
+      'Sorry losers and haters, but my IQ is one of the highest -and you all know it! Please don\'t feel so stupid or insecure, it\'s not your fault': [
+        'Trump',
+        'Kanye',
       ],
     },
     {
