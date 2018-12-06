@@ -60,6 +60,54 @@ module.exports = {
     'Kanye West',
   ],
 },
+    {
+        'I always misspell genius SMH! The irony!': [
+            'Kanye West',
+            'Donald Trump',
+        ],
+    },
+    {
+        'Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?': [
+            'Kanye West',
+            'Donald Trump',
+        ],
+    },
+    {
+        'Nothing in life is promised except death.': [
+            'Kanye West',
+            'Donald Trump',
+        ],
+    },
+    {
+        'Here\'s something that\'s contrary to popular belief: I actually don\'t like thinking. I think people like to think I like to think a lot. And I don't. I do not like to think at all.': [
+            'Kanye West',
+            'Donald Trump',
+        ],
+    },
+    {
+        'People have me pinned as a shark or a predator in some way, and in no way am I that. I wouldn\'t want to hurt anyone. I want to defend people. I want to help people.': [
+            'Kanye West',
+            'Donald Trump',
+        ],
+    },
+    {
+        'I am not a fan of books.': [
+            'Kanye West',
+            'Donald Trump',
+        ],
+    },
+    {
+        'Every time I say something that\'s extremely truthful out loud, it literally breaks the Internet.': [
+            'Kanye West',
+            'Donald Trump',
+        ],
+    },
+    {
+        'The most genius thing about the way I create is to create with other geniuses.': [
+            'Kanye West',
+            'Donald Trump',
+        ],
+    },
     
     {
       'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
