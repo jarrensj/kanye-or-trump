@@ -25,6 +25,43 @@ module.exports = {
       ],
     },
     {
+      'I have never seen a thin person drinking Diet Coke.': [
+        'Donald Trump',
+        'Kanye West',
+       ],
+     },
+    {
+        'Also for anyone that has money they know the first rule is to use other people's money.': [
+         'Kanye West',
+          'Donald Trump',
+       ],
+      },
+    {
+       'Yes I am personally rich and I can buy furs and houses for my family.': [
+       'Kanye West',
+       'Donald Trump',
+  ],
+},
+{
+  'I have no interest in working with anyone who is too important or too good or too traditional to take a call at 3am.': [
+    'Kanye West',
+    'Donald Trump',
+  ],
+},
+{
+  'I'd like to address the false stories and noise that have been engineered by the media.': [
+    'Kanye West',
+    'Donald Trump',
+  ],
+},
+{
+  'Sorry, there is no STAR on the stage tonight!': [
+    'Donald Trump',
+    'Kanye West',
+  ],
+},
+    
+    {
       'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
         'Girls',
         'Boys',
