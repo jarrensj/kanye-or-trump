@@ -7,7 +7,7 @@ const i18n = require('i18next');
 const sprintf = require('i18next-sprintf-postprocessor');
 
 const ANSWER_COUNT = 2;
-const GAME_LENGTH = 5;
+const GAME_LENGTH = 2;
 
 function populateGameQuestions(translatedQuestions) {
   const gameQuestions = [];
@@ -211,10 +211,50 @@ function startGame(newGame, handlerInput) {
 
   handlerInput.attributesManager.setSessionAttributes(sessionAttributes);
 
+  var data = JSON.parse(`{
+      "bodyTemplate1Data": {
+          "type": "object",
+          "objectId": "triviaQuestion",
+          "backgroundImage": {
+              "contentDescription": null,
+              "smallSourceUrl": null,
+              "largeSourceUrl": null,
+              "sources": [
+                  {
+                      "url": "https://s3.amazonaws.com/krump123/kanye+or+trump.png",
+                      "size": "small",
+                      "widthPixels": 0,
+                      "heightPixels": 0
+                  },
+                  {
+                      "url": "https://s3.amazonaws.com/krump123/kanye+or+trump.png",
+                      "size": "large",
+                      "widthPixels": 0,
+                      "heightPixels": 0
+                  }
+              ]
+          },
+          "title": "Kanye or Trump",
+          "textContent": {
+              "primaryText": {
+                  "type": "PlainText",
+                   "text": ${speechOutput}
+              }
+          },
+          "logoUrl": ""
+      }
+  }`)
+
+
   return handlerInput.responseBuilder
     .speak(speechOutput)
     .reprompt(repromptText)
     .withSimpleCard(requestAttributes.t('GAME_NAME'), repromptText)
+    .addDirective({
+      type: 'Alexa.Presentation.APL.RenderDocument',
+      document: require('./questionLayout.json'),
+      datasources: data
+    })
     .getResponse();
 }
 
@@ -246,7 +286,7 @@ const languageString = {
       HELP_UNHANDLED: 'Say yes to continue, or no to end the game.',
       START_UNHANDLED: 'Say start to start a new game.',
       NEW_GAME_MESSAGE: 'Welcome to %s. ',
-      WELCOME_MESSAGE: 'I will ask you %s questions, try to get as many right as you can. Just say the number of the answer. Let\'s begin. ',
+      WELCOME_MESSAGE: 'I will ask you %s questions. Just say the number of the answer. Let\'s begin. ',
       ANSWER_CORRECT_MESSAGE: 'correct. ',
       ANSWER_WRONG_MESSAGE: 'wrong. ',
       CORRECT_ANSWER_MESSAGE: 'The correct answer is %s: %s. ',
@@ -265,7 +305,7 @@ const languageString = {
   'en-GB': {
     translation: {
       QUESTIONS: questions.QUESTIONS_EN_GB,
-      GAME_NAME: 'British Reindeer Trivia'
+      GAME_NAME: 'Kanye or Trump'
     },
   },
   de: {
