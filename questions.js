@@ -79,7 +79,7 @@ module.exports = {
         ],
     },
     {
-        'Here\'s something that\'s contrary to popular belief: I actually don\'t like thinking. I think people like to think I like to think a lot. And I don't. I do not like to think at all.': [
+        'Here\'s something that\'s contrary to popular belief: I actually don\'t like thinking. I think people like to think I like to think a lot. And I don\'t. I do not like to think at all.': [
             'Kanye West',
             'Donald Trump',
         ],
