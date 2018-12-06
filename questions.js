@@ -26,306 +26,87 @@ module.exports = {
     },
     {
       'I have never seen a thin person drinking Diet Coke.': [
-        'Donald Trump',
-        'Kanye West',
+        'Trump',
+        'Kanye',
        ],
      },
     {
         'Also for anyone that has money they know the first rule is to use other people\'s money.': [
-         'Kanye West',
-          'Donald Trump',
+         'Kanye',
+         'Trump',
        ],
       },
     {
        'Yes I am personally rich and I can buy furs and houses for my family.': [
-       'Kanye West',
-       'Donald Trump',
-  ],
-},
-{
-  'I have no interest in working with anyone who is too important or too good or too traditional to take a call at 3am.': [
-    'Kanye West',
-    'Donald Trump',
-  ],
-},
-{
-  'I\'d like to address the false stories and noise that have been engineered by the media.': [
-    'Kanye West',
-    'Donald Trump',
-  ],
-},
-{
-  'Sorry, there is no STAR on the stage tonight!': [
-    'Donald Trump',
-    'Kanye West',
-  ],
-},
+         'Kanye',
+         'Trump',
+      ],
+    },
+    {
+        'I have no interest in working with anyone who is too important or too good or too traditional to take a call at 3am.': [
+          'Kanye',
+          'Trump',
+       ],
+     },
+    {
+        'I\'d like to address the false stories and noise that have been engineered by the media.': [
+          'Kanye',
+          'Trump',
+       ],
+    },
+    {
+        'Sorry, there is no STAR on the stage tonight!': [
+          'Trump',
+          'Kanye',
+        ],
+     },
     {
         'I always misspell genius SMH! The irony!': [
-            'Kanye West',
-            'Donald Trump',
+            'Kanye',
+            'Trump',
         ],
     },
     {
         'Have you ever thought you were in love with someone but then realized you were just staring in a mirror for 20 minutes?': [
-            'Kanye West',
-            'Donald Trump',
+            'Kanye',
+            'Trump',
         ],
     },
     {
         'Nothing in life is promised except death.': [
-            'Kanye West',
-            'Donald Trump',
+            'Kanye',
+            'Trump',
         ],
     },
     {
         'Here\'s something that\'s contrary to popular belief: I actually don\'t like thinking. I think people like to think I like to think a lot. And I don\'t. I do not like to think at all.': [
-            'Kanye West',
-            'Donald Trump',
+            'Kanye',
+            'Trump',
         ],
     },
     {
         'People have me pinned as a shark or a predator in some way, and in no way am I that. I wouldn\'t want to hurt anyone. I want to defend people. I want to help people.': [
-            'Kanye West',
-            'Donald Trump',
+            'Kanye',
+            'Trump',
         ],
     },
     {
         'I am not a fan of books.': [
-            'Kanye West',
-            'Donald Trump',
+            'Kanye',
+            'Trump',
         ],
     },
     {
         'Every time I say something that\'s extremely truthful out loud, it literally breaks the Internet.': [
-            'Kanye West',
-            'Donald Trump',
+            'Kanye',
+            'Trump',
         ],
     },
     {
         'The most genius thing about the way I create is to create with other geniuses.': [
-            'Kanye West',
-            'Donald Trump',
+            'Kanye',
+            'Trump',
         ],
-    },
-    
-    {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
-      ],
-    },
-    {
-      'What do Reindeer eat?': [
-        'Lichen',
-        'Grasses',
-        'Leaves',
-        'Berries',
-      ],
-    },
-    {
-      'What of the following is not true?': [
-        'Caribou live on all continents',
-        'Both reindeer and Caribou are the same species',
-        'Caribou are bigger than reindeer',
-        'Reindeer live in Scandinavia and Russia',
-      ],
-    },
-    {
-      'In what year did Rudolph make his television debut?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
-      ],
-    },
-    {
-      'Who was the voice of Rudolph in the 1964 classic?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
-      ],
-    },
-    {
-      'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
-      ],
-    },
-    {
-      'Santa\'s reindeer named Donner was originally named what?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
-      ],
-    },
-    {
-      'Who invented the story of Rudolph?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
-      ],
-    },
-    {
-      'In what location will you not find reindeer?': [
-        'North Pole',
-        'Lapland',
-        'Korvatunturi mountain',
-        'Finland',
-      ],
-    },
-    {
-      'What Makes Santa\'s Reindeer Fly?': [
-        'Magical Reindeer Dust',
-        'Fusion',
-        'Amanita muscaria',
-        'Elves',
-      ],
-    },
-    {
-      'Including Rudolph, how many reindeer hooves are there?': [
-        '36',
-        '24',
-        '16',
-        '8',
-      ],
-    },
-    {
-      'Santa only has one female reindeer, Which one is it?': [
-        'Vixen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
-      ],
-    },
-    {
-      'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
-      ],
-    },
-    {
-      'What was Rudolph\'s father\'s name?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
-      ],
-    },
-    {
-      'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
-      ],
-    },
-    {
-      'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
-      ],
-    },
-    {
-      'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-        'Black mud',
-        'Bag',
-        'Pillow case',
-        'Sock',
-      ],
-    },
-    {
-      'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-        'Dentist',
-        'Reindeer',
-        'Toy maker',
-        'Candlestick maker',
-      ],
-    },
-    {
-      'In the 1964 movie,what was the Bumble\'s one weakness?': [
-        'Could not swim',
-        'Always hungry',
-        'Candy canes',
-        'Cross eyed',
-      ],
-    },
-    {
-      'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-        'Peppermint',
-        'Gold',
-        'India',
-        'Polar Bears',
-      ],
-    },
-    {
-      'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-        'Square wheels',
-        'No Engine',
-        'Paint does not match',
-        'It does not toot',
-      ],
-    },
-    {
-      'In the 1964 movie, what is the name of the Jack in the Box?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
-      ],
-    },
-    {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
-      ],
-    },
-    {
-      'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-        'Oink',
-        'Growl',
-        'Bark',
-        'Meow',
-      ],
-    },
-    {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
-      ],
-    },
-    {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
-      ],
-    },
-    {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
-      ],
     },
   ],
   QUESTIONS_EN_US: [
