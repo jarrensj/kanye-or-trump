@@ -6,7 +6,7 @@ const questions = require('./questions');
 const i18n = require('i18next');
 const sprintf = require('i18next-sprintf-postprocessor');
 
-const ANSWER_COUNT = 4;
+const ANSWER_COUNT = 2;
 const GAME_LENGTH = 5;
 
 function populateGameQuestions(translatedQuestions) {
@@ -234,7 +234,7 @@ const languageString = {
   en: {
     translation: {
       QUESTIONS: questions.QUESTIONS_EN_US,
-      GAME_NAME: 'Reindeer Trivia',
+      GAME_NAME: 'Kanye or Trump',
       HELP_MESSAGE: 'I will ask you %s multiple choice questions. Respond with the number of the answer. For example, say one, two, three, or four. To start a new game at any time, say, start game. ',
       REPEAT_QUESTION_MESSAGE: 'To repeat the last question, say, repeat. ',
       ASK_MESSAGE_START: 'Would you like to start playing?',
@@ -259,7 +259,7 @@ const languageString = {
   'en-US': {
     translation: {
       QUESTIONS: questions.QUESTIONS_EN_US,
-      GAME_NAME: 'American Reindeer Trivia'
+      GAME_NAME: 'Kanye or Trump'
     },
   },
   'en-GB': {
