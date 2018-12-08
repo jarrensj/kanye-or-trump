@@ -79,12 +79,6 @@ module.exports = {
         ],
     },
     {
-        'Here\'s something that\'s contrary to popular belief: I actually don\'t like thinking. I think people like to think I like to think a lot. And I don\'t. I do not like to think at all.': [
-            'Kanye',
-            'Trump',
-        ],
-    },
-    {
         'People have me pinned as a shark or a predator in some way, and in no way am I that. I wouldn\'t want to hurt anyone. I want to defend people. I want to help people.': [
             'Kanye',
             'Trump',
